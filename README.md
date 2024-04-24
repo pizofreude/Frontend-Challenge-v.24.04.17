@@ -26,7 +26,9 @@ This project showcases a static web page created using HTML and CSS. It aims to 
 
 ## Demo
 
-You can view the live demo of this project here.
+You can view the live demo of this project [here](https://pizofreude.github.io/Frontend-Challenge-v.24.04.17/).
+
+Or simply visit my [Codepen](https://codepen.io/pizofreude/pen/abxXWGJ), don't forget to like, share and subscribe for more.
 
 ## Installation
 
